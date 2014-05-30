@@ -1,4 +1,4 @@
 module LLVM
-  LLVM_VERSION = "3.4"
+  LLVM_VERSION = "3.4.1"
   RUBY_LLVM_VERSION = "3.4.0"
 end
